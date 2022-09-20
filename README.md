@@ -31,8 +31,7 @@ pip install fonsolemenu
 # Usage example
 
 ```py
-from fonsolemenu import fonsoleMenu
-from fonsoleoption import fonsoleOption
+from fonsolemenu import fonsoleMenu, fonsoleOption
 
 def main():
     print("Correct button")
